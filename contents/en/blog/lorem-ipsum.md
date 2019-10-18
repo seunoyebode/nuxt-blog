@@ -2,7 +2,7 @@
 name: 'lorem-ipsum'
 title: Lorem Ipsum
 year: 14 October 2019
-id: 'lorem-ipsum'
+id: 'bacon-ipsum'
 description: |
   Bacon ipsum dolor amet spare ribs ham t-bone buffalo prosciutto, frankfurter bresaola short ribs cupim ground round filet mignon shoulder pork chuck strip steak.
 ---
